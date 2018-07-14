@@ -4,21 +4,21 @@
 	
 	Setting up mongo
 	----------------
-	* start mongod.exe 
-	* start mongo.exe and create collection and needed documents 
-	* Keep the mongod.exe running
+	1. Start mongod.exe 
+	2. Start mongo.exe and create collection and needed documents 
+	3. Keep the mongod.exe running
 
 ### Student collection 
 ----------------------
 
- > Student collection assumed to have similar documents for simplicity.
- 
-	#### Sample document structure
-	
-	* _id
-	* name
-	* cgpa
-	* department
+> Student collection assumed to have similar documents for simplicity.
+
+**Sample document structure**
+
+* _id
+* name
+* cgpa
+* department
 	
 ### Sample operations and url requests
 --------------------------------------
