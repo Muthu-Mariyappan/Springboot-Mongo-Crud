@@ -1,4 +1,4 @@
-## springboot-Mongo-Crud
+## Springboot-Mongo-Crud
 
 	This is a sample project in springboot and mongodb database
 	
@@ -11,11 +11,9 @@
 ### Student collection 
 ----------------------
 
-> Student collection assumed to have similar documents for simplicity.
+> **Student collection assumed to have similar documents for simplicity.**
 
-
-
-**Sample document structure**
+#### Sample document structure
 -----------------------------
 
 	 _id
