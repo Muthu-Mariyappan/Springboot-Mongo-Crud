@@ -13,13 +13,16 @@
 
 > Student collection assumed to have similar documents for simplicity.
 
-**Sample document structure**
 
-* _id
-* name
-* cgpa
-* department
-	
+
+**Sample document structure**
+-----------------------------
+
+	 _id
+	 name
+	 cgpa
+	 department
+
 ### Sample operations and url requests
 --------------------------------------
 1. Find student by id
